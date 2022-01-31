@@ -1,0 +1,3 @@
+## UNET for building footprint detection
+
+intially using INRIA data...
